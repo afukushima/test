@@ -2,3 +2,4 @@
 afukushima
 GitHub
 Git
+ssh
